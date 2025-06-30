@@ -1,11 +1,18 @@
-- 👋 Hi, I’m @Varunn4875
-- 👀 I’m interested in Front End Development using React.js...
-- 🌱 I’m currently learning Javascript especially Es6 ...
-- 💞️ I’m looking to collaborate on any projects related to Front End ...
-- 📫 How to reach me E-mail = varunselvakumar6@gmail.com and 9360141042...
-- 😄 Pronouns: ...
-- ⚡ Fun fact:milk is white in colour ...
+🙋‍♂️ All about me is at My Website
 
+🔭 I’m currently working on Something Intresting.
+
+🌱 I’m currently learning MERN Stack
+
+👯 I’m looking to collaborate for Dev Projects
+
+🤔 I’m looking for help with Competitive Programming
+
+💬 Ask me about anything, Except Maths 😅
+
+👨‍💻 Life Hack: Learn new tech 🔥 and share what you have learned 🎉
+
+⚡ Fun fact: I waste most of my time by watching reels😂
 <!---
 Varunn4875/Varunn4875 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
