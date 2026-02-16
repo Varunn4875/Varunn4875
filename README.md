@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on Something Intresting.
 
-🌱 I’m currently learning MERN Stack
+🌱 I’m currently working as a Software Developer Intern @W3VJ Tech
 
 👯 I’m looking to collaborate for Dev Projects
 
